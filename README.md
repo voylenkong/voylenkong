@@ -1,9 +1,10 @@
-# Welcome on my page!
+## Hi, I'm Nikolay. 👋
+## Welcome on my page!
 
 ### [My leetcode page](https://leetcode.com/voylenkong)
 
 ---
-### [My cv on hh.ru](https://hh.ru/resume/eb5d1137ff0b76a7450039ed1f4859426b7967)
+### [My CV on hh.ru](https://hh.ru/resume/eb5d1137ff0b76a7450039ed1f4859426b7967)
 
 
 <!--
