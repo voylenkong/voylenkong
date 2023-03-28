@@ -1,6 +1,6 @@
-### Welcome on my page!
+# Welcome on my page!
 ---
-##### [My leetcode page](https://leetcode.com/voylenkong)
+### [My leetcode page](https://leetcode.com/voylenkong)
 
 
 <!--
