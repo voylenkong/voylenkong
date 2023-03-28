@@ -1,7 +1,7 @@
 ## Hi, I'm Nikolay. Welcome on my page!👋 
-
+<!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/voylenkong)](https://leetcode.com/voylenkong)
-
+-->
 ---
 ## [My CV on hh.ru](https://hh.ru/resume/eb5d1137ff0b76a7450039ed1f4859426b7967)
 
