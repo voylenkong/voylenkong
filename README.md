@@ -1,6 +1,5 @@
 # Welcome on my page!
 
----
 ### [My leetcode page](https://leetcode.com/voylenkong)
 
 ---
