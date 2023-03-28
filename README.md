@@ -1,6 +1,10 @@
 # Welcome on my page!
+
 ---
 ### [My leetcode page](https://leetcode.com/voylenkong)
+
+---
+### [My CV on HH.ru](https://leetcode.com/voylenkong)
 
 
 <!--
