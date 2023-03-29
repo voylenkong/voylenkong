@@ -1,4 +1,15 @@
-## Hi, I'm Nikolay. Welcome on my page!
+## Hi! My name is Nikolay, I'm java developer.
+
+**Used technologies:**
+- Spring Framework (Boot, Security, Data, MVC);
+- Apache Maven;
+- SQL;
+- JDBC;
+- Liquibase;
+- JUnit, Mockito;
+- Swagger;
+- Git;
+- Rabbit MQ;
 
 
 
